@@ -9,6 +9,7 @@
     "client": "npm start --prefix frontend",
     "dev": "concurrently \"npm run server\" \"npm run client\""
   },
+  "type": "module",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/apguru/proshop.git"
